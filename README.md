@@ -1,2 +1,2 @@
 # HelloGitHub
-used for practice
+Hi humans!
